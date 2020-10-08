@@ -1,0 +1,68 @@
+
+:root{
+
+    --colorprimario:#00883a;
+}
+
+body {
+
+
+    background-color: #f1fdf2;
+}
+
+
+.navbar {
+    
+    padding: 0rem 1rem;
+}
+
+.navbar-nav .nav-link {
+   
+    text-align: right;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color:  #0c4825!important;
+}
+
+
+.modal-backdrop{
+ position: relative; 
+ height: 0px;
+}
+
+.btn-primary {
+    
+    background-color: var( --colorprimario)!important;
+    border-color:var( --colorprimario);
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #034e23;
+    border-color:#034e23;
+}
+
+
+.jumbotron {
+    padding-bottom: 5px;
+}
+
+a {
+    color: var( --colorprimario);
+    
+}
+a:hover {
+    color: #034e23!important;
+    
+}
+
+.jumbotron {
+    
+    
+    background-color: #f1fdf2;
+}
+
+.bg-light {
+    background-color: #d1e8d3!important;
+}
+
