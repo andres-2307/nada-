@@ -1,1 +1,22 @@
+body{
 
+
+   
+}
+
+.navbar {
+    
+    background-color: #0979fa;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(241 239 239 / 90%)!important;
+}
+
+.navbar-light .navbar-brand {
+    color: rgb(255 255 255 / 90%)!important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(251 252 253 / 80%);
+}
